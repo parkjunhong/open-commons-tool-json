@@ -1,0 +1,6 @@
+open\commons\tool\json\JavaClassTemplate.class
+open\commons\tool\json\JavaClassGenerator.class
+open\commons\tool\json\template\JavaClassTemplateProvider.class
+open\commons\tool\json\JavaClassAttrContainer.class
+open\commons\tool\json\ClassAttrConfig.class
+open\commons\tool\json\JavaClassTemplate$ArrayHandler.class
